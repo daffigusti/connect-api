@@ -1,10 +1,10 @@
 {
-  "name": "@commaai/api",
+  "name": "@moretore/api",
   "version": "3.1.1",
   "main": "src/index.js",
   "browser": "dist/index.js",
   "types": "index.d.ts",
-  "repository": "https://github.com/commaai/comma-api.git",
+  "repository": "https://github.com/moretore/connect-api.git",
   "homepage": "https://api.comma.ai",
   "license": "MIT",
   "scripts": {

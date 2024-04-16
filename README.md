@@ -1,4 +1,4 @@
-# @commaai/api
+# @moretore/api
 
 [comma API](https://api.comma.ai) client library
 
@@ -9,5 +9,5 @@ You can install the package using the GitHub URL. It is recommended to use a spe
 ```
 # add to your package.json dependencies
 
-"@commaai/api": "commaai/comma-api#v3.0.1",
+"@moretore/api": "moretore/connect-api#v3.0.1",
 ```

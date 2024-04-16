@@ -14,7 +14,7 @@ concurrency:
 jobs:
   docker:
     runs-on: ubuntu-20.04
-    if: github.repository == 'commaai/comma-api'
+    if: github.repository == 'moretore/connect-api'
     permissions:
       packages: write
       contents: read
