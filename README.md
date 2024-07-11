@@ -9,5 +9,5 @@ You can install the package using the GitHub URL. It is recommended to use a spe
 ```
 # add to your package.json dependencies
 
-"@moretore/api": "moretore/connect-api#v3.0.1",
+"@daffigusti/api": "daffigusti/connect-api#v3.0.1",
 ```
